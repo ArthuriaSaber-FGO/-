@@ -1,5 +1,5 @@
 team: Python
 
-manager: Lee, Chae
+Melody: Lee, Chae
 
 members: Juli, Yang 
