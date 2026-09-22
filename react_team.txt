@@ -2,4 +2,4 @@ team: React
 
 manager: Min
 
-members: Ji
+members: Bob
