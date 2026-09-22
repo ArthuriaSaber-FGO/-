@@ -3,3 +3,5 @@ team: Python
 manager: Lee, Chae
 
 members: Juli, Yang 
+
+friend: Pochaco
