@@ -1,5 +1,5 @@
 team: Python
 
-manager: Lee
+manager: Lee, Chae
 
 members: Juli, Yang 
