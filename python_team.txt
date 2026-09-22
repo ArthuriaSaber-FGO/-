@@ -2,4 +2,4 @@ team: Python
 
 manager: Lee
 
-members: Anna
+members: Juli
