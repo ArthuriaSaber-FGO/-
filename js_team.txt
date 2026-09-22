@@ -1,5 +1,5 @@
 team: JS
 
-manager: Kim
+manager: Choi
 
 members: Mi
