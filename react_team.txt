@@ -2,4 +2,8 @@ team: React
 
 manager: Min
 
+<<<<<<< HEAD
 members: Bob
+=======
+members: June
+>>>>>>> b088ce9 (Edit react_team)
