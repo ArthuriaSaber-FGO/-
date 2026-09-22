@@ -1,0 +1,5 @@
+team: JS
+
+manager: Kim
+
+members: Mi
