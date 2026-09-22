@@ -3,3 +3,5 @@ team: Python
 Melody: Lee, Chae
 
 members: Juli, Yang 
+
+friend: Pochaco
